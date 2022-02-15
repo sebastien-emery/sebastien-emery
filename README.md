@@ -11,6 +11,7 @@ I wish to develop web applications.
 
 ### Technologies FRONT :
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![Redux](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=redux)
 
 ### Technologies BACK :
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
