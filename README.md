@@ -2,7 +2,8 @@
 ## I'm Sébastien Emery 👋
 
 I'm a JS Front-end developer looking for a fulltime job !
-I wish to develop web applications.
+- French 🥖 38 yo
+- 2022 Goals : find a fulltime job
 
 ### Language :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
