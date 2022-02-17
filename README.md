@@ -2,7 +2,9 @@
 ## I'm Sébastien Emery 👋
 
 I'm a JS Front-end developer looking for a fulltime job !
-- French 🥖 38 yo
+- French 🥖 
+- 38 years old
+- Grand-Est, Moselle, Luxembourg
 - 2022 Goals : find a fulltime job
 
 ### Language :
