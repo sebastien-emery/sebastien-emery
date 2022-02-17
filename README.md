@@ -7,8 +7,7 @@ I'm a JS Front-end developer !
 - Grand-Est, Moselle, Luxembourg
 - 2022 Goals : find a fulltime job
 
-### I am currently in the process of preparing my Professional File with a view to obtaining the Professional Title "Web and Mobile Web Developer".
-I am looking for a full time job as a front-end developer, please contact me!
+#### I am currently in the process of preparing my Professional File with a view to obtaining the Professional Title "Web and Mobile Web Developer" and I am looking for a full time job as a front-end developer, please contact me!
 
 ### Language :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
