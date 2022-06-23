@@ -7,6 +7,9 @@ I'm a JS Front-end developer !
 - Grand-Est, Moselle, Luxembourg
 - 2022 Goals : find a fulltime job
 
+
+![My portfolio](https://portfolio-sebastien-emery.vercel.app/)
+
 #### I am currently working in my old job and I am looking for my first experience as a front-end developer, please contact me!
 
 ### Language :
