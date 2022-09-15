@@ -1,7 +1,7 @@
 # Hi there,
 ## I'm Sébastien Emery 👋
 
-I'm a JS Front-end developer !
+I'm a JS Web Developer !
 - French 🥖 
 - 38 years old
 - Grand-Est, Moselle, Luxembourg
@@ -10,7 +10,7 @@ I'm a JS Front-end developer !
 
 [My portfolio](https://portfolio-sebastien-emery.vercel.app/)
 
-#### I am currently working in my old job and I am looking for my first experience as a front-end developer, please contact me!
+#### I am currently working in my old job and I am looking for my first experience as a Web Developer, please contact me!
 
 ### Language :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
